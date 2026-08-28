@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.gguf
+.DS_Store
+recordings/
+meetings/
